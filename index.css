@@ -42,11 +42,62 @@ footer {display:flex;
 footer a{color: white;
     margin: 20px;
     text-align: center;
-    font:oblique
+    font:oblique;
 }
 footer a :hover{ 
     color: rgb(0, 255, 221) ;filter: brightness(1.2);}
 
 footer p{margin-top: 2px;}
+.tec{color:  white;
+    margin-left: 10px;
+    font:oblique;
+display: flex;
+   justify-content: left;}
+.tec p{text-align: center;
+    font: oblique;
+    
+
+}
+.tec img{width: 60px;
+
+
+}
+.tec .css:hover{ transform: scale(1.08);
+    transition: .6s;
+}
+.tec .html:hover{ transform: scale(1.08);
+    transition: .6s;
+}
+.tec .js:hover{ transform: scale(1.08);
+    transition: .6s;
+}
+.carro:hover{
+    transform: scale(1.05);
+    transition: .6s;
+
+}
+.investi:hover{
+    transform: scale(1.05);
+    transition: .6s;
+
+}
+.investi {width: 550px;
+    border-style: solid;
+
+}
+.carro {width: 550px;
+    border-style:solid;
+
+}
+.slidebox{
+    display:flexbox;
+}
+.investi img{background-color: aqua;
+
+}
+.corpo2
+{margin-left: 10px;
+
+}
 
 
